@@ -2,9 +2,21 @@ h1{
     font-family: monospace;
     text-align: right;
     color: rgb(243, 82, 1);
-    background-image: radial-gradient(orange 5%, darkblue 15%, black 60%);
+    background-image: radial-gradient(orange 1%, darkblue 9%, black 60%);
     padding: 100px;
-    text-shadow: 2px 2px 5px darkorange;
-    font-size: 350%;
+    text-shadow: 2px 05px 5px lightsalmon;
+    font-size: 350%; 
 }
 
+p { 
+    margin-top: 33px;
+    margin-left: 10px;
+}
+
+h2{  
+    font-family: monospace;
+    color: orangered;
+    display: inline;
+    text-align:right;
+
+}
