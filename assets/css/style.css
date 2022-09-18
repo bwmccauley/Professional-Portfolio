@@ -1,1 +1,10 @@
+h1{
+    font-family: monospace;
+    text-align: right;
+    color: rgb(243, 82, 1);
+    background-image: radial-gradient(orange 5%, darkblue 15%, black 60%);
+    padding: 100px;
+    text-shadow: 2px 2px 5px darkorange;
+    font-size: 350%;
+}
 
